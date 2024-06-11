@@ -36,8 +36,9 @@ número pedido, data cadastro, todos
 * Swagger OpenAPI
 
 ## Execução
-Execute os script de banco para criar a base 
- Dados de Acesso da Base
+Execute os script de banco para criar a base
+
+Dados de Acesso da Base
  * spring.mvc.pathmatch.matching-strategy=ant_path_matcher
  * spring.datasource.url=jdbc:mysql://localhost:3306/product-api
  * spring.datasource.username=root
