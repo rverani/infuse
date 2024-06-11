@@ -1,0 +1,11 @@
+CREATE TABLE `request_tb` (
+  `id_request` binary(16) NOT NULL,
+  `client_model` varchar(255) DEFAULT NULL,
+  `dt_cadastro` datetime(6) DEFAULT NULL,
+  `id_control` int NOT NULL,
+  `name` varchar(255) DEFAULT NULL,
+  `quantity` int NOT NULL,
+  `value` decimal(38,2) DEFAULT NULL,
+  `id_client` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`id_request`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci

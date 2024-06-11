@@ -1,0 +1,11 @@
+address_client,dt_cadastro,name
+insert into REQUEST_TB(address_client,dt_cadastro,name)VALUES("Rua Torres Homem","2024-06-09 20:32:19.286000","Elaine Melo");
+insert into REQUEST_TB(address_client,dt_cadastro,name)VALUES("Rua Pernambuco","2024-06-09 20:35:00.365000","Lenice Guinmaraes");
+insert into REQUEST_TB(address_client,dt_cadastro,name)VALUES("Rua Botucatu","2024-06-09 20:34:42.030000","Carol Ribeiro");
+insert into REQUEST_TB(address_client,dt_cadastro,name)VALUES("Rua Parana","2024-06-09 20:35:34.916000","Roberto Faria");
+insert into REQUEST_TB(address_client,dt_cadastro,name)VALUES("Rua Juiz de Fora","2024-06-09 20:33:19.745000","Oliver Cunha");
+insert into REQUEST_TB(address_client,dt_cadastro,name)VALUES("Rua Botucatu","2024-06-09 20:33:58.965000","Jesus Junior");
+insert into REQUEST_TB(address_client,dt_cadastro,name)VALUES("Rua Costa e Silva","2024-06-09 20:34:20.468000","Gisele Amaro");
+insert into REQUEST_TB(address_client,dt_cadastro,name)VALUES("Rua Caçapava","2024-06-09 20:31:54.391000","Rubens Verani");
+insert into REQUEST_TB(address_client,dt_cadastro,name)VALUES("Rua Pernambuco","2024-06-09 20:32:39.224000","Yuri Salibina");
+insert into REQUEST_TB(address_client,dt_cadastro,name)VALUES("Rua Ubeeraba","2024-06-09 20:32:54.513000","Amanda Souza");
