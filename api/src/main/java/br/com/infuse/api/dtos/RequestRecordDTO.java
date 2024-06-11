@@ -5,7 +5,6 @@ import jakarta.validation.constraints.NotNull;
 
 import java.math.BigDecimal;
 import java.util.Date;
-import java.util.UUID;
 
 public record RequestRecordDTO(@NotNull int idControl,
                                Date dtCadastro,

@@ -1,18 +1,13 @@
 package br.com.infuse.api.controller;
 
 import br.com.infuse.api.dtos.RequestRecordDTO;
-import br.com.infuse.api.models.RequestModel;
 import br.com.infuse.api.service.impl.RequestServiceImpl;
 import jakarta.validation.Valid;
-import org.springframework.data.jpa.repository.Query;
-import org.springframework.data.repository.query.Param;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.Date;
 import java.util.List;
-import java.util.UUID;
 
 
 @RestController
